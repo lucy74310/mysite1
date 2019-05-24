@@ -1,6 +1,6 @@
 package com.cafe24.mysite.action.user;
 
-import com.cafe24.mysite.action.guestbook.MainAction;
+import com.cafe24.mysite.action.main.MainAction;
 import com.cafe24.web.mvc.Action;
 import com.cafe24.web.mvc.ActionFactory;
 
